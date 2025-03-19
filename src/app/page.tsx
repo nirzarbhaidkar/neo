@@ -10,17 +10,14 @@ export default function About() {
 
         <br />
 
-        <p>
-          This is the neobrutalism portfolio template. Check the{' '}
-          <a
-            target="_blank"
-            className="font-heading underline"
-            href="https://github.com/neobrutalism-templates/portfolio"
-          >
-            github repo
-          </a>{' '}
-          for more info.
-        </p>
+        <p>This is the neobrutalism portfolio template. Check the&nbsp;
+  <a target="_blank"
+     className="font-heading underline"
+     href="https://github.com/neobrutalism-templates/portfolio">
+    github repo
+  </a>&nbsp;
+  for more info.
+</p>
       </div>
 
       <Links />
